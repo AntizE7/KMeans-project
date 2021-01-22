@@ -8,5 +8,5 @@ Nous avons structuré le projet de la manière suivante :
 3. code : 
  - Le fichier `script.ipynb`permettant d'exécuter le projet 
 4. exported :
- - Le fichier `part-[partition-number] contenant la base exportée
+ - Le fichier `part-[partition-number]` contenant la base exportée
   
